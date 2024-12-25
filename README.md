@@ -66,16 +66,16 @@ Berikut adalah contoh penggunaan *header* dan *footer* dalam sebuah berkas PHP:
 $content = ob_get_clean();
 include '../partials/Master.php';
 ?>
+```
 
-
-Tips
+### Tips
 
 - Pastikan pengaturan database benar.
 - Periksa koneksi database sebelum mengedit navbar.
 - Gunakan kode yang rapi dan terstruktur.
 
 
-Sumber
+### Sumber
 
 - Dokumentasi resmi PHP: https://www-php-net.translate.goog/docs.php?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=tc
 - Dokumentasi resmi MySQLi: https://www-php-net.translate.goog/manual/en/book.mysqli.php?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=tc
