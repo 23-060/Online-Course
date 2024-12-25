@@ -5,7 +5,7 @@
 Untuk XAMPP:
 
 1. Simpan file di /xampp/htdocs.
-2. Akses melalui browser: http://localhost/nama_file.
+2. Akses melalui browser: http://localhost/Online%20Course.
 
 Untuk Laragon:
 
